@@ -1,5 +1,11 @@
 <h1>🛒 Shopping Cart </h1>
 
+<h1>
+
+<img src="assets/shoppingcart.png">
+
+</h1>
+
 <h3 align="center">
   <a href="https://thierrydrmv.github.io/Shopping-Cart/" target="_blank">Acessar o projeto</a>
 </h3>
