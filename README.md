@@ -25,5 +25,3 @@ Github: https://github.com/thierrydrmv
 Site: https://thierrydrmv.github.io/Shopping-Cart/
 
 ---
-
-Desenvolvido por Thierry Varela
