@@ -6,7 +6,7 @@
 
 The project **🛒 Shopping Cart** is a web page that accesses the Mercado Livre API and simulates an e-commerce for selling computer parts, using localstorage to simulate a shopping cart.
 
-## 🚀 Build With
+## 🚀 Built With
 
 [![Javascript][Javascript]][Javascript-url][![HTML5][HTML5]][HTML5-url][![CSS3][CSS3]][CSS3-url]
 
