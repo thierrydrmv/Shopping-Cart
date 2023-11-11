@@ -1,7 +1,8 @@
 # Trybe Project - Shopping Cart
 
-## 📝 About
+ [Access the Project](https://thierrydrmv.github.io/Shopping-Cart/)
 
+## 📝 About
 
 The project **🛒 Shopping Cart** is a web page that accesses the Mercado Livre API and simulates an e-commerce for selling computer parts, using localstorage to simulate a shopping cart.
 
